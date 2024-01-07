@@ -1,0 +1,51 @@
+2024-01-07 00:12:15 - (INFO) ==============Request Header============== 
+2024-01-07 00:12:15 - (INFO) user-agent : IntelliJ IDEA/232.10072.27 
+2024-01-07 00:12:15 - (INFO) accept-encoding : gzip 
+2024-01-07 00:12:15 - (INFO) cache-control : no-cache 
+2024-01-07 00:12:15 - (INFO) pragma : no-cache 
+2024-01-07 00:12:15 - (INFO) host : localhost:8080 
+2024-01-07 00:12:15 - (INFO) accept : text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2 
+2024-01-07 00:12:15 - (INFO) connection : keep-alive 
+2024-01-07 00:12:15 - (INFO) ============================================ 
+2024-01-07 00:13:12 - (INFO) ==============Request Header============== 
+2024-01-07 00:13:12 - (INFO) host : localhost:8080 
+2024-01-07 00:13:12 - (INFO) connection : keep-alive 
+2024-01-07 00:13:12 - (INFO) sec-ch-ua : "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120" 
+2024-01-07 00:13:12 - (INFO) sec-ch-ua-mobile : ?0 
+2024-01-07 00:13:12 - (INFO) sec-ch-ua-platform : "Windows" 
+2024-01-07 00:13:12 - (INFO) upgrade-insecure-requests : 1 
+2024-01-07 00:13:12 - (INFO) dnt : 1 
+2024-01-07 00:13:12 - (INFO) user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+2024-01-07 00:13:12 - (INFO) accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7 
+2024-01-07 00:13:12 - (INFO) sec-fetch-site : same-origin 
+2024-01-07 00:13:12 - (INFO) sec-fetch-mode : navigate 
+2024-01-07 00:13:12 - (INFO) sec-fetch-user : ?1 
+2024-01-07 00:13:12 - (INFO) sec-fetch-dest : document 
+2024-01-07 00:13:12 - (INFO) referer : http://localhost:8080/BankSystemWebApp_war_exploded/login.jsp 
+2024-01-07 00:13:12 - (INFO) accept-encoding : gzip, deflate, br 
+2024-01-07 00:13:12 - (INFO) accept-language : en-US,en;q=0.9 
+2024-01-07 00:13:12 - (INFO) cookie : JSESSIONID=60FDE949875699CC013E089D4831D3BA; Idea-fbd0666d=6aedc659-2a7b-466b-9d00-fc20a1a1f920 
+2024-01-07 00:13:12 - (INFO) ============================================ 
+2024-01-07 00:13:22 - (INFO) ==============Request Header============== 
+2024-01-07 00:13:22 - (INFO) host : localhost:8080 
+2024-01-07 00:13:22 - (INFO) connection : keep-alive 
+2024-01-07 00:13:22 - (INFO) content-length : 31 
+2024-01-07 00:13:22 - (INFO) cache-control : max-age=0 
+2024-01-07 00:13:22 - (INFO) sec-ch-ua : "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120" 
+2024-01-07 00:13:22 - (INFO) sec-ch-ua-mobile : ?0 
+2024-01-07 00:13:22 - (INFO) sec-ch-ua-platform : "Windows" 
+2024-01-07 00:13:22 - (INFO) origin : http://localhost:8080 
+2024-01-07 00:13:22 - (INFO) dnt : 1 
+2024-01-07 00:13:22 - (INFO) upgrade-insecure-requests : 1 
+2024-01-07 00:13:22 - (INFO) content-type : application/x-www-form-urlencoded 
+2024-01-07 00:13:22 - (INFO) user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+2024-01-07 00:13:22 - (INFO) accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7 
+2024-01-07 00:13:22 - (INFO) sec-fetch-site : same-origin 
+2024-01-07 00:13:22 - (INFO) sec-fetch-mode : navigate 
+2024-01-07 00:13:22 - (INFO) sec-fetch-user : ?1 
+2024-01-07 00:13:22 - (INFO) sec-fetch-dest : document 
+2024-01-07 00:13:22 - (INFO) referer : http://localhost:8080/BankSystemWebApp_war_exploded/login.jsp 
+2024-01-07 00:13:22 - (INFO) accept-encoding : gzip, deflate, br 
+2024-01-07 00:13:22 - (INFO) accept-language : en-US,en;q=0.9 
+2024-01-07 00:13:22 - (INFO) cookie : JSESSIONID=74A98EF163646E1AF0D3153AA8DDC6F8; Idea-fbd0666d=6aedc659-2a7b-466b-9d00-fc20a1a1f920 
+2024-01-07 00:13:22 - (INFO) ============================================ 

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Configuration xmlns="http://logging.apache.org/log4j/2.0/config">
+
+    <Appenders>
+        <Console name="ConnectionPoolLogg" target="SYSTEM_OUT">
+            <PatternLayout>
+                <Pattern>
+                    %d{yyyy-MM-dd HH:mm:ss} - (%p) %m %n
+                </Pattern>
+            </PatternLayout>
+        </Console>
+        <File name="requestLogg" fileName="\logs\requestLog.log" append="true">
+            <PatternLayout>
+                <Pattern>
+                    %d{yyyy-MM-dd HH:mm:ss} - (%p) %m %n
+                </Pattern>
+            </PatternLayout>
+        </File>
+
+    </Appenders>
+    <Loggers>
+        <Logger name="com.mruruc.filters.LogRequestWrapper" level="TRACE" additivity="false">
+            <AppenderRef ref="requestLogg"/>
+        </Logger>
+        <Logger name="com.mruruc.db_management.dbconnection.DataSource" level="info" additivity="false">
+            <AppenderRef ref="ConnectionPoolLogg"/>
+        </Logger>
+    </Loggers>
+</Configuration>
+
+        <!--
+
+        %d is the date.
+        %C is the full class name of the caller issuing the logging request.
+        %M is the method name where the logging request was issued (note that generating the method name is slow and should be avoided in production).
+        %p is the log level (e.g., INFO, DEBUG).
+        %m is the actual log message.
+        %n is a new line.
+        -->
+        <!--
+        Level
+        TRACE
+        DEBUG
+        INFO
+        WARN
+        ERROR
+        FATAL
+        -->
